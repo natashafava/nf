@@ -85,13 +85,13 @@ video:hover {
     .header {
         padding-left: 10px;
         position: fixed;
-        font-size: 8px;    
+        font-size: 9px;    
     }
     .info {
-        font-size: 8px;
+        font-size: 9px;
     }
 
     a {
-        font-size: 8px;
+        font-size: 9px;
     }
 }
