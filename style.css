@@ -81,3 +81,18 @@ img:hover {
 video:hover {
     cursor: pointer;   
 }
+@media (max-width: 800px) 
+    {
+    .header {
+        padding-left: 10px;
+        position: fixed;
+        font-size: 8px;    
+    }
+    .info {
+        font-size: 8px;
+    }
+
+    a {
+        font-size: 8px;
+    }
+}
